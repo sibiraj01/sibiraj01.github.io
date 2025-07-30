@@ -17,15 +17,15 @@ const ProjectsSection = () => {
       githubUrl: "#",
       featured: true
     },
-    // {
-    //   title: "Task Management App",
-    //   description: "A collaborative task management application with real-time updates, drag-and-drop functionality, and team collaboration features.",
-    //   image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=600&h=400&fit=crop",
-    //   technologies: ["React", "TypeScript", "Socket.io", "MongoDB", "Express"],
-    //   liveUrl: "#",
-    //   githubUrl: "#",
-    //   featured: true
-    // },
+    {
+      title: "Course Registration system",
+      description: "A course registration system user can view available courses, Enroll and register a courses",
+      image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=600&h=400&fit=crop",
+      technologies: ["Html", "css", "javascript", "springboot", "springdatajpa","MySQL"],
+      liveUrl: "#",
+      githubUrl: "#",
+      featured: true
+    },
     // {
     //   title: "Weather Dashboard",
     //   description: "A responsive weather application with location-based forecasts, interactive maps, and detailed weather analytics.",

@@ -30,7 +30,7 @@ const Resume = () => {
           {/* Header */}
           <motion.div variants={itemVariants} className="text-center mb-12">
             <h1 className="text-4xl font-bold bg-gradient-primary bg-clip-text text-transparent mb-4">
-              Your Name
+             Sibiraj V
             </h1>
             <p className="text-xl text-muted-foreground mb-6">Full Stack Developer</p>
             
@@ -78,31 +78,31 @@ Passionate about building scalable, user-friendly web applications and eager to 
                   <Calendar className="w-4 h-4" />
                   Jan 2025 - Present
                 </div>
-                <ul className="text-muted-foreground space-y-1 text-sm">
-                  <li>• Led development of 3 major web applications serving 100k+ users</li>
-                  <li>• Implemented CI/CD pipelines reducing deployment time by 70%</li>
-                  <li>• Mentored 5 junior developers and conducted code reviews</li>
-                  <li>• Technologies: React, Node.js, TypeScript, AWS, MongoDB</li>
-                </ul>
+               <ul className="text-muted-foreground space-y-1 text-sm">
+                <li>• Designed and developed the Mayuri Tours and Travels website from scratch</li>
+                <li>• Built a fully responsive frontend for seamless viewing across devices</li>
+                <li>• Deployed the static website on AWS S3 for fast and reliable access</li>
+                <li>• Technologies used: HTML, CSS, JavaScript, React, AWS S3</li>
+              </ul>
               </div>
 
-              {/* <div className="border-l-2 border-primary/30 pl-6">
+              <div className="border-l-2 border-primary/30 pl-6">
                 <div className="flex items-center gap-2 mb-2">
                   <h3 className="text-xl font-semibold">Full Stack Developer</h3>
                   <ExternalLink className="w-4 h-4 text-muted-foreground" />
                 </div>
-                <p className="text-primary mb-2">StartupXYZ</p>
+                <p className="text-primary mb-2">Course Registration system</p>
                 <div className="flex items-center gap-2 text-sm text-muted-foreground mb-3">
                   <Calendar className="w-4 h-4" />
-                  Jun 2020 - Dec 2021
+                   may 2025 - jun 2025
                 </div>
-                <ul className="text-muted-foreground space-y-1 text-sm">
-                  <li>• Built responsive web applications using React and Express.js</li>
-                  <li>• Collaborated with design team to implement pixel-perfect UIs</li>
-                  <li>• Optimized database queries improving performance by 40%</li>
-                  <li>• Technologies: React, Express.js, PostgreSQL, Docker</li>
+                 <ul className="text-muted-foreground space-y-1 text-sm">
+                 <li>• Developed a Course Registration System using Spring Boot and Spring Data JPA</li>
+                 <li>• Implemented CRUD operations for students, courses, and registration workflows</li>
+                 <li>• Built a responsive user interface using HTML, CSS, and JavaScript</li>
+                 <li>• Technologies used: Java, Spring Boot, Spring Data JPA, HTML, CSS, JavaScript, MySQL</li>
                 </ul>
-              </div> */}
+              </div>
             </div>
           </motion.section>
 
@@ -117,8 +117,8 @@ Passionate about building scalable, user-friendly web applications and eager to 
                 2020 - 2023
               </div>
               <p className="text-muted-foreground text-sm">
-                Graduated Magna Cum Laude • GPA: 3.8/4.0 • Relevant Coursework: Data Structures, 
-                Algorithms, Software Engineering, Database Systems
+                percentage: 70% • Relevant Coursework: Java, Springboot, Springdatajpa, Springsecurity, Data Structures, SQL,
+                 Software Engineering
               </p>
             </div>
           </motion.section>
