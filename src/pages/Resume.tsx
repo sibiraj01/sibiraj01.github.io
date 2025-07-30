@@ -29,7 +29,7 @@ const Resume = () => {
         >
           {/* Header */}
           <motion.div variants={itemVariants} className="text-center mb-12">
-            <h1 className="text-4xl font-bold bg-gradient-primary bg-clip-text text-transparent mb-4">
+            <h1 className="text-4xl font-bold text-primary mb-4">
              Sibiraj V
             </h1>
             <p className="text-xl text-muted-foreground mb-6">Full Stack Developer</p>
